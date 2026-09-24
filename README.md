@@ -102,9 +102,20 @@ before they reach production grading.
 
 ## Latest Activity
 <!--LATEST_PROJECTS:START-->
-_Run `update_profile_readme.py` to populate this section._
+- **[wycliffearapcheruiyot](https://github.com/wycliffearapcheruiyot/wycliffearapcheruiyot)** — Profile README  
+  _last pushed 2026-09-24_
+- **[kplc-chatbot-system](https://github.com/wycliffearapcheruiyot/kplc-chatbot-system)** — Overview and architecture map of the KPLC chatbot system  
+  _last pushed 2026-09-24_
+- **[kplc-chatbot-db-infra](https://github.com/wycliffearapcheruiyot/kplc-chatbot-db-infra)** — MongoDB Atlas setup for the chatbot system shared state  
+  _last pushed 2026-09-24_
+- **[kplc-chatbot-kb-builder](https://github.com/wycliffearapcheruiyot/kplc-chatbot-kb-builder)** — Builds and verifies the chatbot knowledge-base data  
+  _last pushed 2026-09-24_
+- **[kplc-chatbot-dataset-sync](https://github.com/wycliffearapcheruiyot/kplc-chatbot-dataset-sync)** — Keeps the model dataset synced from Hugging Face to Kaggle on demand - FastAPI  
+  _last pushed 2026-09-24_
 <!--LATEST_PROJECTS:END-->
 
 ---
 
-<sub>Last updated: <!--LAST_UPDATED:START-->never<!--LAST_UPDATED:END--></sub>
+<sub>Last updated: <!--LAST_UPDATED:START-->
+2026-09-24 22:17 UTC
+<!--LAST_UPDATED:END--></sub>
