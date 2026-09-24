@@ -67,6 +67,10 @@ zero.
 ---
 
 ### 🌍 Girlpower Organisation Kenya — Website & CMS
+
+<!--GIRLPOWER_SCREENSHOT:START-->
+![Girlpower homepage](./assets/girlpower-home.png)
+<!--GIRLPOWER_SCREENSHOT:END-->
 A full content-managed platform for a Nairobi-based nonprofit: a public
 Next.js site with no content of its own — every page, image, and form is
 driven by a FastAPI + MongoDB Atlas backend, edited through a dedicated
