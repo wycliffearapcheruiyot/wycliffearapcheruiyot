@@ -67,13 +67,6 @@ zero.
 ---
 
 ### 🌍 Girlpower Organisation Kenya — Website & CMS
-<<<<<<< HEAD
-
-<!--GIRLPOWER_SCREENSHOT:START-->
-![Girlpower homepage](./assets/girlpower-home.png)
-<!--GIRLPOWER_SCREENSHOT:END-->
-=======
->>>>>>> b91e15a1387d152d0435416490dd772b07d825b2
 A full content-managed platform for a Nairobi-based nonprofit: a public
 Next.js site with no content of its own — every page, image, and form is
 driven by a FastAPI + MongoDB Atlas backend, edited through a dedicated
@@ -81,10 +74,9 @@ admin panel and published with one click.
 
 **[Visit the live site →](https://girlpower-web.vercel.app)**
 
-<!-- Add real screenshots here, e.g.:
-![Girlpower site](./assets/girlpower-web.png)
-![Girlpower admin](./assets/girlpower-admin.png)
--->
+<!--GIRLPOWER_SCREENSHOT:START-->
+![Girlpower homepage](./assets/girlpower-home.png)
+<!--GIRLPOWER_SCREENSHOT:END-->
 
 > **Note on the source:** this is a live system handling a real nonprofit's
 > data (staff logins, volunteer records), so I'm keeping the codebase private
@@ -109,9 +101,6 @@ before they reach production grading.
 
 ## Latest Activity
 <!--LATEST_PROJECTS:START-->
-<<<<<<< HEAD
-_Run `update_profile_readme.py` to populate this section._
-=======
 - **[wycliffearapcheruiyot](https://github.com/wycliffearapcheruiyot/wycliffearapcheruiyot)** — Profile README  
   _last pushed 2026-09-24_
 - **[kplc-chatbot-system](https://github.com/wycliffearapcheruiyot/kplc-chatbot-system)** — Overview and architecture map of the KPLC chatbot system  
@@ -122,15 +111,8 @@ _Run `update_profile_readme.py` to populate this section._
   _last pushed 2026-09-24_
 - **[kplc-chatbot-dataset-sync](https://github.com/wycliffearapcheruiyot/kplc-chatbot-dataset-sync)** — Keeps the model dataset synced from Hugging Face to Kaggle on demand - FastAPI  
   _last pushed 2026-09-24_
->>>>>>> b91e15a1387d152d0435416490dd772b07d825b2
 <!--LATEST_PROJECTS:END-->
 
 ---
 
-<<<<<<< HEAD
-<sub>Last updated: <!--LAST_UPDATED:START-->never<!--LAST_UPDATED:END--></sub>
-=======
-<sub>Last updated: <!--LAST_UPDATED:START-->
-2026-09-24 22:17 UTC
-<!--LAST_UPDATED:END--></sub>
->>>>>>> b91e15a1387d152d0435416490dd772b07d825b2
+<sub>Last updated: <!--LAST_UPDATED:START-->2026-09-24 22:17 UTC<!--LAST_UPDATED:END--></sub>
