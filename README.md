@@ -70,7 +70,7 @@ Next.js site with no content of its own — every page, image, and form is
 driven by a FastAPI + MongoDB Atlas backend, edited through a dedicated
 admin panel and published with one click.
 
-**[Visit the live site →](https://girlpower-web.vercel.app)**
+**[Visit the live site →](https://girlpowerkenya.org)**
 
 <!--GIRLPOWER_SCREENSHOT:START-->
 ![Girlpower homepage](./assets/girlpower-home.png)
