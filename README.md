@@ -67,7 +67,7 @@ zero.
 ---
 
 ### 🌍 Girlpower Organisation Kenya — Website & CMS
-A full content-managed platform for a Nairobi-based nonprofit: a public
+A full content-managed platform for a Bungoma-based nonprofit: a public
 Next.js site with no content of its own — every page, image, and form is
 driven by a FastAPI + MongoDB Atlas backend, edited through a dedicated
 admin panel and published with one click.
