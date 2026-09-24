@@ -23,9 +23,7 @@ built to be deterministic and hard to game.
 Alongside that, I've been the volunteer IT Lead at **Girlpower Organisation
 Kenya** since 2022, where I built their content-managed website from scratch
 (Next.js + FastAPI + MongoDB Atlas) and run their day-to-day IT. In 2024 I
-completed an IT attachment at **Kenya Power**, and in 2025 an AI-powered
-cybersecurity platform I co-built for Kenyan SMEs was selected for a
-Mozilla-funded showcase.
+completed an IT attachment at **Kenya Power**.
 
 I'm currently looking for roles in **AI evaluation, applied AI, and
 full-stack engineering**.
@@ -67,7 +65,7 @@ zero.
 ---
 
 ### 🌍 Girlpower Organisation Kenya — Website & CMS
-A full content-managed platform for a Bungoma-based nonprofit: a public
+A full content-managed platform for a Nairobi-based nonprofit: a public
 Next.js site with no content of its own — every page, image, and form is
 driven by a FastAPI + MongoDB Atlas backend, edited through a dedicated
 admin panel and published with one click.
