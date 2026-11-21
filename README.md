@@ -1,7 +1,7 @@
 # Hi, I'm Wycliffe Cheruiyot 👋
 
 **Software Engineer — AI Evaluation, Full-Stack and LLM-Integrated Systems**
-Nairobi, Kenya · B.Sc. Computer Science, Kisii University (Sep 2021 – Dec 2025)
+Nairobi, Kenya ·
 
 I write evaluation tasks for frontier AI models and build full-stack and
 LLM-integrated systems.
